@@ -28,7 +28,7 @@ p {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Work Sans", sans-serif;
-  color: #000;
+  color: #131127;
   font-weight: 600;
 }
 
@@ -91,7 +91,7 @@ h6, .h6 {
 }
 
 .btn-main {
-  background: #f44336;
+  background: #ff6600;
   color: #fff;
 }
 
@@ -106,7 +106,7 @@ h6, .h6 {
 }
 
 .btn-black:hover {
-  background: #f44336;
+  background: #ff8800;
   color: #fff;
 }
 
@@ -127,13 +127,13 @@ a {
 }
 
 a:hover {
-  color: #f44336;
+  color: #ff8800;
   text-decoration: none;
   outline: none;
 }
 
 .bg-primary {
-  background: #f44336 !important;
+  background: #ff6600 !important;
 }
 
 .bg-secondary {
@@ -361,7 +361,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .portfolio .btn-group .btn:hover {
-  color: #f44336;
+  color: #ff8800;
 }
 
 .portfolio .btn-group:not(:first-child) > .btn, .portfolio .btn-group > .btn:not(:first-child) {
@@ -370,7 +370,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .portfolio .btn.active {
-  color: #f44336;
+  color: #ff8800;
 }
 
 .inner-box {
