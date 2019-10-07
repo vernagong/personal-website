@@ -161,7 +161,7 @@ a:hover {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #ff8800;
 }
 
 @media (max-width: 575px) {
@@ -229,7 +229,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
 }
 
 ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hover {
-  color: #f44336;
+  color: #ff8800;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
@@ -611,7 +611,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 
 .form-control:focus {
   box-shadow: none;
-  border-color: #f44336;
+  border-color: #ff8800;
 }
 
 textarea.form-control {
@@ -635,7 +635,7 @@ textarea.form-control {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #ff8800;
 }
 
 .letter-spacing {
@@ -666,7 +666,7 @@ textarea.form-control {
 }
 
 .post .post-content a:hover h4 {
-  color: #f44336;
+  color: #ff8800;
 }
 
 .pagination {
@@ -684,12 +684,12 @@ textarea.form-control {
 }
 
 .pagination li a:hover {
-  background: #f44336;
+  background: #ff8800;
   color: #fff;
 }
 
 .pagination li.active a {
-  background: #f44336;
+  background: #ff8800;
   color: #fff;
 }
 
@@ -796,7 +796,7 @@ textarea.form-control {
 }
 
 .footer-widget a:hover {
-  color: #f44336;
+  color: #ff8800;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
