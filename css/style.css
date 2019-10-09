@@ -673,6 +673,11 @@ textarea.form-control {
   color: #ff8800;
 }
 
+.img_s{
+    width: 90px;
+    height: 90px;
+}
+
 .pagination {
   margin-top: 70px;
 }
