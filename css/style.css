@@ -349,6 +349,13 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   padding-bottom: 100px;
 }
 
+
+.project-title{
+    font-weight: 800;
+    font-size: 32px;
+    color: #ff6600;
+}
+
 .portfolio .btn:focus, .portfolio .btn:hover, .portfolio .btn.focus.active {
   box-shadow: none !important;
   outline: 0 !important;
@@ -370,7 +377,11 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .portfolio .btn.active {
-  color: #ff8800;
+  background-color: #fff;
+}
+
+.img-preview{
+    width: 100%;
 }
 
 .inner-box {
