@@ -66,7 +66,7 @@ h6, .h6 {
 }
 
 .section {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .section-sm {
@@ -382,6 +382,22 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 
 .img-preview{
     width: 100%;
+}
+
+.p-w{
+    font-weight: 1000;
+    color: #fff;
+}
+
+.section-area{
+    padding: 100px 0px 80px 0px;
+    background-color: #343A40;
+    width: 100%;
+    text-align: center;
+}
+
+.section-2{
+    padding: 0px 0px 100px 0px;
 }
 
 .inner-box {
