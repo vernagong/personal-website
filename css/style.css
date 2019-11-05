@@ -384,6 +384,12 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     width: 100%;
 }
 
+.img-full{
+    margin: 80px,0px,40px,0px;
+    padding: 80px,0px,40px,0px;
+    width: 100%;
+}
+
 .p-w{
     font-weight: 1000;
     color: #fff;
