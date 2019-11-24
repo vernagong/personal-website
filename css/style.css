@@ -417,6 +417,12 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     width: 100%;
     text-align: center;
 }
+.section-area-f{
+    padding: 100px 0px 80px 0px;
+    background-color: #3057D5;
+    width: 100%;
+    text-align: center;
+}
 
 .img-logo{
     width: 140px;
