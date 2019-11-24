@@ -356,6 +356,16 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     color: #ff6600;
 }
 
+.project-title-1{
+    font-weight: 800;
+    font-size: 32px;
+    color: #131127;
+}
+
+.project-problem{
+    padding: 40px 0px 20px 0px;
+}
+
 .portfolio .btn:focus, .portfolio .btn:hover, .portfolio .btn.focus.active {
   box-shadow: none !important;
   outline: 0 !important;
@@ -397,7 +407,13 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 
 .section-area{
     padding: 100px 0px 80px 0px;
-    background-color: #343A40;
+    background-color: #04DED4;
+    width: 100%;
+    text-align: center;
+}
+.section-area-2{
+    padding: 100px 0px 80px 0px;
+    background-color: #293765;
     width: 100%;
     text-align: center;
 }
@@ -409,6 +425,10 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 
 .section-2{
     padding: 0px 0px 100px 0px;
+}
+.section-color{
+    padding: 100px 0px 100px 0px;
+    background-color: #f8f8f8;
 }
 
 .inner-box {
@@ -899,6 +919,25 @@ textarea.form-control {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   color: #cce5ff;
+}
+
+#testimonials .owl-nav,
+#testimonials .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#testimonials .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
+}
+
+#testimonials .owl-dot.active {
+  background-color: #007bff;
 }
 
 .pagination {
