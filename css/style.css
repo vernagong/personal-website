@@ -650,6 +650,17 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   transition: all 3s ease-in-out;
 }
 
+.block-area{
+    height: 240px;
+    margin-top: -230px;
+    margin-bottom: 10px;
+    position: relative;
+    width: 100%;
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 1));
+    display: block;
+}
+
+
 @media (max-width: 575px) {
   .cta {
     padding-bottom: 0px;
