@@ -405,6 +405,10 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     color: #fff;
 }
 
+.bg{
+    background-color: #f9f9f9;
+}
+
 .section-area{
     padding: 100px 0px 80px 0px;
     background-color: #04DED4;
