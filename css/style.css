@@ -66,7 +66,7 @@ h6, .h6 {
 }
 
 .section {
-  padding: 100px 0px;
+  padding: 80px 0px;
 }
 
 .section-sm {
@@ -448,6 +448,12 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     width: 100%;
     text-align: center;
 }
+.section-area-6{
+    padding: 100px 0px 80px 0px;
+    background-color: #ff6600;
+    width: 100%;
+    text-align: center;
+}
 
 .img-logo{
     width: 140px;
@@ -813,10 +819,10 @@ textarea.form-control {
 }
 
 #services .title {
-  margin-left: 40px;
-  font-weight: 700;
+  margin-left: 20px;
+  font-weight: 800;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 #services .title a {
@@ -829,7 +835,7 @@ textarea.form-control {
 
 #services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 20px;
   line-height: 24px;
   margin-bottom: 0;
 }
