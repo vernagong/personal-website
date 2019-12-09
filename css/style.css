@@ -1089,6 +1089,10 @@ textarea.form-control {
   .media img {
     margin-bottom: 10px;
   }
+  .project-info{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 }
 
 @media (max-width: 400px) {
@@ -1098,6 +1102,10 @@ textarea.form-control {
   .media img {
     margin-bottom: 10px;
   }
+  .project-info{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 }
 
 @media (max-width: 767px) {
@@ -1107,6 +1115,10 @@ textarea.form-control {
   .media img {
     margin-bottom: 10px;
   }
+  .project-info{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 }
 
 .footer {
@@ -1123,4 +1135,3 @@ textarea.form-control {
   color: #ff8800;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
