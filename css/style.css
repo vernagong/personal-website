@@ -362,6 +362,11 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     color: #131127;
 }
 
+.project-info{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
 .project-problem{
     padding: 40px 0px 20px 0px;
 }
