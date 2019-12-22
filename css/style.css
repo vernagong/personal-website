@@ -68,7 +68,7 @@ h6, .h6 {
 }
 
 .section {
-  padding: 80px 0px;
+  padding: 160px 0px 80px 0px;
 }
 
 .section-sm {
@@ -194,6 +194,14 @@ a:hover {
   position: relative;
 }
 
+.main-nav {
+  position: fixed;
+  z-index:1;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
 .main-nav .header-top-socials a {
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -211,6 +219,7 @@ a:hover {
 
 ul.dropdown-menu {
   background: #151515;
+  position: fixed;
   border-radius: 0px;
   margin: 0px;
   padding: 0px;
@@ -794,7 +803,7 @@ textarea.form-control {
 }
 
 #services {
-  padding: 60px 0 60px 0;
+  padding: 160px 0 80px 0;
 
 }
 
@@ -975,6 +984,10 @@ textarea.form-control {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   color: #cce5ff;
+}
+
+.self-photo{
+    padding: 20px 0px 100px 0px; 
 }
 
 #testimonials .owl-nav,
