@@ -1,11 +1,14 @@
 .testimonial-content{
 	text-align: center;
+    z-index: 0;
+    position: relative;
 
 	img{
     	// box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
 	}
-	padding: 25px;
+    z-index: 0;
     position: relative;
+	padding: 25px;
 
 	i{
 		font-size: 60px;
