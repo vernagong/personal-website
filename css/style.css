@@ -422,6 +422,11 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     width: 100%;
 }
 
+.img-logo{
+    width: 140px;
+    height: 50px
+}
+
 .p-w{
     font-weight: 1000;
     color: #fff;
@@ -504,12 +509,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
     width: 100%;
     text-align: center;
 }
-}
 
-.img-logo{
-    width: 140px;
-    height: 50px
-}
 
 .section-2{
     padding: 0px 0px 100px 0px;
